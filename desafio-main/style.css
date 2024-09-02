@@ -1,0 +1,66 @@
+:root {
+    --cor-de-fundo: #9698a1;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: rgb(11, 12, 65);
+}
+
+.titulo {
+    font-size: 50px;
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+
+.sobre {
+    text-align: center;
+    font-size: 50px;
+    margin: 80px;
+}
+
+.titulo-curiosidades {
+    font-size: 50px;
+    text-align: center;
+    color: #170f61;
+    text-align: center;
+}
+
+.curiosidades {
+    font-size: 50px;
+    margin: 100px;
+    color: #09052b;
+    text-align: center;
+}
+
+.item-dois {
+    color: #183b63;
+    text-align: center;
+}
+
+.item-tres {
+    color: #010918;
+    text-align: center;
+}
+
+.item-quatro {
+    color: #12042b;
+    text-align: center;
+}
+
+.instagram {
+    font-size: 50px;
+    text-decoration: none;
+    color: rgb(10, 11, 80);
+    text-align: center;
+}
+
+.instagram:hover {
+    color:#020d22;
+    text-align: center;
+}
+
